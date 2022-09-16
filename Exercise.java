@@ -1,6 +1,6 @@
 public class Exercise {
     public static void main(String[] args) {
-        String wordToCheck = "ASD";
+        String wordToCheck = "racecar";
         boolean isWordPalindrome = PalindromeStringChecker.isPalindrome(wordToCheck);
         System.out.println("Word palindrome? T/F? " + isWordPalindrome);
 
