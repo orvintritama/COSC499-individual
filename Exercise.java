@@ -7,5 +7,6 @@ public class Exercise {
         int numberToCheck = 112211;
         boolean isIntPalindrome = PalindromeIntegerChecker.isPalindrome(numberToCheck);
         System.out.println("Integer palindrome? T/F? " + isIntPalindrome );
+        System.out.println("test");
     }
 }

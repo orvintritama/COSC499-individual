@@ -15,7 +15,7 @@ public class PalindromeIntegerChecker {
                  
             }
         }
-        
+        System.out.println("test");
         // true if original is the same as reversed
         return (original == reversed) ? true : false;
     }
